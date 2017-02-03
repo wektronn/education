@@ -7,3 +7,5 @@ git log -p -2 - детальный просмотр логов, последни
 git checkout - откат на нужный коммит
 git checkout master - возврат на последний коммит
 git checkout -b название - добавление новой ветки гита
+git remote add origin https://github.com/wektronn/education.git - подключение к репозиторию на сайте гитхаба
+git push rep-education master - выгрузка на гитхаб проекта
